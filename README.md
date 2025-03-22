@@ -30,10 +30,10 @@
 
 ### Additional Technologies  
 - **JWT Authentication** (Secure login/signup)  
-- **Braintree PayPal** (Payment gateway) 
+- **Braintree PayPal** (Payment gateway)
 
 ## 📦 Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/metaverse-ecommerce.git
-   cd sfe
+   git clone https://github.com/LaababImane/IntellVerse-SFE.git
+   cd IntellVerse-SFE
